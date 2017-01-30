@@ -1,0 +1,19 @@
+{
+  "Target": {
+    "Self": {
+      "Convert": "Switch attack and defence stats",
+      "Convalesce": "Heal by medium amount",
+      "Resolve": "Increase attack"
+    },
+    "Enemy": {
+      "Shatter": "Reduce enemy defence by small amount until the start of the next turn",
+      "Dull": "Reduce enemy attack by small amount until the start of the next turn"
+    },
+    "Allied": {
+      "Shield": "Give an ally a medium amount of temporary HP until the start of the next turn",
+      "First Aid": "Heal an ally for a small amount at the start of the turn",
+      "Sharpen": "Increase the attack of an ally until the start of the next turn",
+      "Succor": "Heal an ally for a large amount at the end of the turn"
+    }
+  }
+}
