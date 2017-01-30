@@ -1,2 +1,2 @@
 # SAPWars
-employee vs employee JPRG
+employee vs employee JRPG
